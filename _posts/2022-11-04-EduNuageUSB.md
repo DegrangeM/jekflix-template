@@ -11,6 +11,8 @@ image: >-
 #  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: Logiciel
 tags:
-  - welcome
-  - blog
+  - Logiciel
+  - Sauvegarde
+  - Nextcloud
+  - Apps Edu
 ---

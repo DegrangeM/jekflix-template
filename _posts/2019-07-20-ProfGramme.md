@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ProfGramme
+lien: https://github.com/DegrangeM/ProfGramme
 description: >-
   Profgramme est un logiciel permettant de créer facilement sa progression depuis une liste d'éléments (par exemple tirée d'un programme officiel).
 image: >-

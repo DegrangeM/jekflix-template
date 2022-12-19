@@ -50,7 +50,8 @@ layout: main
                     </a>
                 </span>
                 <div class="box-body">
-                    <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
+                    <!-- <a class="cover" href="{{ post.url | prepend: site.baseurl }}"> -->
+                    <a class="cover" href="{{ post.lien }}">
                         {% include loader.html %}
                         <div style="display:flex;">
                             {% if post.optimized_image %}

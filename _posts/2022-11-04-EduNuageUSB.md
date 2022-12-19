@@ -2,6 +2,7 @@
 #date: 2019-05-16T23:48:05.000Z
 layout: post
 title: EduNuageUSB
+lien: https://github.com/DegrangeM/EduNuageUSB
 description: >-
   EduNuageUSB est un logiciel permettant aux enseignants de facilement sauvegarder le contenu de leur clef USB et qui utilise le cloud de l'Éducation Nationale (offrant 100 Go de stockage).
 image: >-

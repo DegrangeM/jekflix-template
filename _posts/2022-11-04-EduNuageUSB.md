@@ -14,5 +14,5 @@ tags:
   - Logiciel
   - Sauvegarde
   - Nextcloud
-  - Apps Edu
+  - AppsEducation
 ---
